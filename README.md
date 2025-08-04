@@ -24,7 +24,7 @@ landing-page/
 ├── style.css 
 └── README.md 
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 HTML5
 CSS3
 Flexbox / Media Queries
