@@ -28,6 +28,8 @@ landing-page/
 HTML5
 CSS3
 Flexbox / Media Queries
+VS Code
+
 
 📱 Responsive Design
 Tested on:
