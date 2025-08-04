@@ -20,9 +20,9 @@
 
 ## 📂 Project Structure
 landing-page/
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-└── README.md # Project info
+├── index.html 
+├── style.css 
+└── README.md 
 🛠️ Tech Stack
 HTML5
 
