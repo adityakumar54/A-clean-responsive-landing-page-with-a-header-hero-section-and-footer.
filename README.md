@@ -23,20 +23,16 @@ landing-page/
 ├── index.html 
 ├── style.css 
 └── README.md 
+
 🛠️ Tech Stack
 HTML5
-
 CSS3
-
 Flexbox / Media Queries
 
 📱 Responsive Design
 Tested on:
-
 ✅ Desktop
-
 ✅ Tablet
-
 ✅ Mobile
 
 🤝 Contributing
